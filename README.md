@@ -294,5 +294,3 @@ The configurations are stored in the `configs/` directory and are subdivided int
 They are managed by [Hydra](https://hydra.cc/docs/intro/)
 You can experiment with different configurations by passing the relevant flags.
 You can get examples on how to do so in the `reproducibility_scripts/` directory.
-
-# bet-reproduction
